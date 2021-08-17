@@ -1,4 +1,4 @@
 
 .idea/
 
-amber/__pycache__/
+*/__pycache__/
